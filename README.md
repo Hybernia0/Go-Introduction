@@ -1,6 +1,6 @@
 # Go-Introduction
 
-Il mio tour personale alla scoperta di Go.
+My personal tour to discover GO.
 
-1. Primi passi nel sito ufficiale: https://golang.org/doc/
+1. First steps, the official site: https://golang.org/doc/
 
