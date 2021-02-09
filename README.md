@@ -1,3 +1,6 @@
 # Go-Introduction
 
-1. Documentazione Go
+Il mio tour personale alla scoperta di Go.
+
+1. Primi passi nel sito ufficiale:
+
